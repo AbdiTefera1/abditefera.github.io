@@ -43,6 +43,7 @@ const Hero = () => {
               href="https://drive.google.com/file/d/13yhlANttsP5Zq-2PrexaDvDnlZlnIi3g/view?usp=sharing"
               title="view cv"
               role="button"
+              target="_blank"
               className="w-[190px] h-[60px] relative inline-flex items-center justify-center px-8 py-4 text-lg font-bold text-white transition-all duration-200 bg-primary-color font-bj rounded-xl focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"
             >
               View Resume
